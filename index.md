@@ -16,15 +16,15 @@ I will focus on the relationship between these 3 columns found within the Comp11
 
 ## Analysis 
 Figure 1. Pace vs Understanding
-<img src="static/imgs/Figure1.png" alt="countplot between pace and understanding"  width="250"/>
+<img src="static/imgs/Figure1.png" alt="countplot between pace and understanding"  width="400"/>
 This figure shows relationship between a student's understanding and their percieved pace of the course through a count plot.
 
 Figure 2. Difficulty vs Understanding
-<img src="static/imgs/Figure2.png" alt="boxplot between difficulty and understanding"  width="250"/>
+<img src="static/imgs/Figure2.png" alt="boxplot between difficulty and understanding"  width="400"/>
 This figure shows relationship between a student's understanding and their percieved difficulty of the course through a box plot. 
 
 Figure 3. Pace vs Difficulty
-<img src="static/imgs/Figure3.png" alt="pointplot between pace and difficulty. "  width="250"/>
+<img src="static/imgs/Figure3.png" alt="pointplot between pace and difficulty. "  width="400"/>
 This figure shows relationship between a student's percieved difficulty and pace of the course through a point plot. 
 
 ## Conclusion
