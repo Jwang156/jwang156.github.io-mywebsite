@@ -11,13 +11,13 @@ layout: default
 
 ## Analysis 
 Figure 1. Pace vs Understanding
-<img src="personal-site.github.io/static/imgs/logo.png" alt="countplot between pace and understanding"  width="500"/>
+<img src="static/imgs/logo.png" alt="countplot between pace and understanding"  width="500"/>
 
 Figure 2. Difficulty vs Understanding
-<img src="personal-site.github.io/static/imgs/logo.png" alt="boxplot between difficulty and understanding"  width="500"/>
+<img src="static/imgs/logo.png" alt="boxplot between difficulty and understanding"  width="500"/>
 
 Figure 3. Pace vs Difficulty
-<img src="personal-site.github.io/static/imgs/logo.png" alt="pointplot between pace and difficulty. "  width="500"/>
+<img src="static/imgs/logo.png" alt="pointplot between pace and difficulty. "  width="500"/>
 
 
 ## Conclusion
